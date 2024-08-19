@@ -7,4 +7,4 @@ This file is the file that was used to run the CubeSAT and all the sensors insta
 - DS3231
 - LoRa
 
-and the file "final.cpp" is intended to be a file from Arduino
+and the file "final.cpp" is intended to be a file from Arduino (.ino)
